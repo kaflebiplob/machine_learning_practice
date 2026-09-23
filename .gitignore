@@ -51,3 +51,6 @@ htmlcov/
 build/
 dist/
 *.egg-info/
+
+# this one is for me to take notes
+notes.txt
